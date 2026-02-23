@@ -9,7 +9,7 @@
 
 `SmartImageView` is a modern, robust, and highly optimized Swift Package that brings seamless pinch-to-zoom capabilities to your iOS applications, directly mimicking the immersive, bounce-back behavior seen in native iOS Photos or social media apps.
 
-Born as a modern successor and significant improvement over libraries like `EEZoomableImageView`, `SmartImageView` brings **first-class SwiftUI support**, eliminates annoying edge-case crashes (like NaNs), and strictly utilizes the latest declarative paradigms for SwiftUI while maintaining top-tier `UIKit` compatibility.
+Born as a modern successor and significant improvement over libraries like, `SmartImageView` brings **first-class SwiftUI support**, eliminates annoying edge-case crashes (like NaNs), and strictly utilizes the latest declarative paradigms for SwiftUI while maintaining top-tier `UIKit` compatibility.
 
 ## 🌟 Features
 
