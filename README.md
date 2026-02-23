@@ -29,7 +29,7 @@ Born as a modern successor and significant improvement over libraries like `EEZo
 
 1. Open your project in Xcode.
 2. Go to **File > Add Package Dependencies...**
-3. Paste the repository URL: `https://github.com/your-username/SmartImageView.git` (replace with actual URL when deployed).
+3. Paste the repository URL: `[https://github.com/your-username/SmartImageView.git](https://github.com/mmmcompanies/SmartImageView)` (replace with actual URL when deployed).
 4. Select the version or branch you wish to use.
 5. Add it to your target.
 
